@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a third-year ambitious Mechatronics Engineering student at LAU, passionate about robotics, automation, and innovative engineering solutions. I am driven by proven academic excellence, hands-on project experience, and leadership in both technical and volunteer environments.
 
 <!--
 **robinsarhane/robinsarhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
